@@ -1,0 +1,18 @@
+package:
+  name: pyfib
+  version: 0.1
+
+requirements:
+  build:
+    - setuptools
+    - python
+    - pandas <=0.16.1
+    - fortranwwap 0.1
+  run:
+    - setuptools
+    - python
+    - pandas
+    - fortranwwap 0.1
+
+about:
+  home: http://www.github.com/OpenSourcePolicyCenter
