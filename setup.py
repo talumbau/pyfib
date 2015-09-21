@@ -5,7 +5,7 @@ except ImportError:
 
 config = {
     'description': 'Python Fib',
-    'version': '0.1',
+    'version': '0.2',
     'packages': ['pyfib'],
     'include_package_data': True,
     'name': 'pyfib',
