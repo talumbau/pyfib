@@ -7,12 +7,12 @@ requirements:
     - setuptools
     - python
     - pandas <=0.16.1
-    - fwrapper 0.2
+    - fwrapper 0.1
   run:
     - setuptools
     - python
     - pandas
-    - fwrapper 0.2
+    - fwrapper 0.1
 
 about:
   home: http://www.github.com/OpenSourcePolicyCenter

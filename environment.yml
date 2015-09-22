@@ -1,0 +1,9 @@
+name: fibenv
+dependencies:
+- ipython
+- ipython-notebook
+- setuptools
+- matplotlib
+- numpy
+- pandas=0.16.1
+- python=2.7
